@@ -45,8 +45,8 @@ Any opportunity to **lower my Bacon number to 3** is more than welcome. Note tha
 At some point in time I sarted writing some [notes on various computer programming topics][blog] but saddly I don't have enough time to write quality content about this. I'll get back to it next time I have the opportunity to teach :). 
 -->
 
-<a href="https://countapi.xyz/">
-  <img src="https://api.countapi.xyz/hit/cglacet/visitors?img" 
+<a href="https://api.countapi.xyz/get/cglacet/visitors">
+  !<img src="https://api.countapi.xyz/hit/cglacet/visitors?img" 
        alt="just counting, will this really work, let's find out."
        title="Dont mind me, I'm just counting."
   />
