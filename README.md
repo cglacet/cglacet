@@ -61,8 +61,8 @@ At some point in time I sarted writing some [notes on various computer programmi
   [python]: https://www.python.org/
   [RN]: https://reactnative.dev/
   [routing schemes]: https://www.wikiwand.com/en/Routing
-  [leader election]: https://www.wikiwand.com/en/Leader_election#/article_content_wrapper
-  [vanet]: https://www.wikiwand.com/fr/Vehicular_Ad-Hoc_Network#/article_content_wrapper
+  [leader election]: https://www.wikiwand.com/en/Leader_election#article_content_wrapper
+  [vanet]: https://www.wikiwand.com/fr/Vehicular_Ad-Hoc_Network#article_content_wrapper
   [erdos number]: https://mathscinet.ams.org/mathscinet/collaborationDistance.html
   [bacon number]: https://www.wikiwand.com/en/Six_Degrees_of_Kevin_Bacon
   [dblp]: https://dblp.uni-trier.de/pers/hd/g/Glacet:Christian
