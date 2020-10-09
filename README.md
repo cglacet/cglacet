@@ -6,7 +6,7 @@
 
 ## About me
 
-I live in Bordeaux (France) and I'm the co-founder and CTO at [Kune.travel][kune.travel]. 
+I live in Bordeaux (France), I'm the co-founder and CTO at [Kune.travel][kune.travel]. 
 
 I love both theorical and practical computer science. Which means I find pleasure in solving abstract maths
 problems but I also love to cheat and use a computer to solve problems for me. 
