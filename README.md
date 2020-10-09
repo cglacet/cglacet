@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://kune.travel">
     <img src="https://kune.travel/img/kune.png" width=100 /> 
   </a>
-</div>
+</div> -->
 
 ## About me
 
