@@ -1,17 +1,21 @@
-## (not so) Short bio.
+<div align="center">
+  <a href="https://kune.travel">
+    <img src="https://kune.travel/img/kune.png" width=100 /> 
+  </a>
+</div>
+
+## About me
 
 I live in Bordeaux (France) and I'm the co-founder and CTO at [Kune.travel][kune.travel]. 
 
 I love both theorical and practical computer science. Which means I find pleasure in solving abstract maths
-problems but I also love to cheat and use a computer to solve problems for me. That being said you probably 
-guessed that my favorite programming language is [python][python], I like it so much I even use it for 
-non-research related problems. At Kune, we use python for most our web services. I'm also very curious 
-about [react-native][RN] that I've used daily for quite a while now (~2 years).
+problems but I also love to cheat and use a computer to solve problems for me. 
+My favorite programming language is [python][python]. 
+At Kune, we use python for most our web services. I'm also very curious 
+about [react-native][RN] that I've used daily for quite a while now.
 
 I'm a former postdoctoral researcher at [Politecnico di Torino][polito] and phd. student at [LaBRI][labri].
-My research mainly focuses on graph problems (mostly [routing schemes][routing schemes], [leader election problems][leader election] and [vehicular network][vanet]). 
-
-More details about my research on [dblp][dblp]/[Research Gate][rs gate]/[Google Scholar][google scholar], my less geeky profile is available on [LinkedIn][linkedin]. Feel free to contact me on any of these platform, especially if you come with computer science problems, questions or even answers.
+My research mainly focuses on graph problems (mostly [routing schemes][routing schemes], [leader election problems][leader election] and [vehicular network][vanet]). More details about my research are available on [dblp][dblp]/[Research Gate][rs gate]/[Google Scholar][google scholar], my less geeky profile is available on [LinkedIn][linkedin].
 
 Some achivements I absolutely need to share:  
 
@@ -37,7 +41,9 @@ Some achivements I absolutely need to share:
 
 Any opportunity to **lower my Bacon number to 3** is more than welcome. Note that I'm an awful actor so you better arm yourself with patience and low expectetions.
 
+<!--
 At some point in time I sarted writing some [notes on various computer programming topics][blog] but saddly I don't have enough time to write quality content about this. I'll get back to it next time I have the opportunity to teach :). 
+-->
 
   [polito]: https://www.polito.it/?lang=en
   [kune.travel]: https://kune.travel/
