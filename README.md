@@ -45,12 +45,17 @@ Any opportunity to **lower my Bacon number to 3** is more than welcome. Note tha
 At some point in time I sarted writing some [notes on various computer programming topics][blog] but saddly I don't have enough time to write quality content about this. I'll get back to it next time I have the opportunity to teach :). 
 -->
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cglacet)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cglacet&layout=compact)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
+
+<!--
 <a href="https://api.countapi.xyz/get/cglacet/visitors">
   !<img src="https://api.countapi.xyz/hit/cglacet/visitors?img" 
        alt="just counting, will this really work, let's find out."
        title="Dont mind me, I'm just counting."
   />
 </a>
+-->
 
   [polito]: https://www.polito.it/?lang=en
   [kune.travel]: https://kune.travel/
