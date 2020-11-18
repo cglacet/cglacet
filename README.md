@@ -19,7 +19,7 @@ My research mainly focuses on graph problems (mostly [routing schemes][routing s
 
 Some achivements I absolutely need to share:  
 
-- I published to: **SODA**, **PODC**, **INFOCOM**, **TALG** and **DISC**.
+- I published to: **[SODA][SODA]**, **[PODC][PODC]**, **[INFOCOM][INFOCOM]**, **[TALG][TALG]** and **[DISC][DISC]**.
 - I have an **[Erdős number][erdos number] of 3**: 
   Christian Glacet [→][ref1]
   Avery Miller [→][ref3] 
@@ -86,3 +86,8 @@ At some point in time I sarted writing some [notes on various computer programmi
   [rs gate]: https://www.researchgate.net/profile/Christian_Glacet
   [google scholar]: https://scholar.google.fr/citations?user=hRsspqQAAAAJ
   [linkedin]: https://www.linkedin.com/in/cglacet/
+  [SODA]: http://www.guide2research.com/conference/soda-2021-acm-siam-symposium-on-discrete-algorithms
+  [PODC]: http://www.guide2research.com/conference/podc-2020
+  [INFOCOM]: http://www.guide2research.com/conference/infocom-2021-ieee-international-conference-on-computer-communications-infocom
+  [TALG]: http://www.guide2research.com/journal/acm-transactions-on-algorithms
+  [DISC]: http://www.guide2research.com/conference/disc-2020-international-symposium-on-distributed-computing
