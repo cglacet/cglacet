@@ -74,8 +74,8 @@ At some point in time I sarted writing some [notes on various computer programmi
   [grace of monaco]: https://www.imdb.com/title/tt2095649/?ref_=nv_sr_1?ref_=nv_sr_1
   [in the cut]: https://www.imdb.com/title/tt0199626/?ref_=nv_sr_1?ref_=nv_sr_1
   [ganesh ophelie]: https://google.com
-  [the big picture](https://www.wikiwand.com/en/The_Big_Picture_(1989_film))
-  [space travesty](https://www.wikiwand.com/en/2001%3a_A_Space_Travesty)
+  [the big picture]: https://www.wikiwand.com/en/The_Big_Picture_(1989_film)
+  [space travesty]: https://www.wikiwand.com/en/2001%3a_A_Space_Travesty
   [discrete maths]: https://www.wikiwand.com/en/Discrete_mathematics
   [computational complexity]: https://www.wikiwand.com/en/Computational_complexity
   [python]: https://www.python.org/
