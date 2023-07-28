@@ -1,10 +1,28 @@
+# Christian Glacet
+
+Want to hire me or my team? Send a message at <a href="mailto:contact@kune.tech">contact@kune.tech</a>. 
+
+## Topics
+
+- Travel industry
+- E-commerce
+
+## Skills
+
+- Building high quality APIs
+- Interfacing with existing APIs (including ChatGPT API)
+- Going from an idea to production
+- Fast prototyping
+- Dealing with large datasets and cleaning up data
+- Algorithm (mainly distributed computing)
+
 <!-- <div align="center">
   <a href="https://kune.travel">
     <img src="https://kune.travel/img/kune.png" width=100 /> 
   </a>
 </div> -->
 
-## About me
+## More About me
 
 I live in Bordeaux (France), I'm the co-founder and CTO at [Kune.travel][kune.travel]. 
 
@@ -39,7 +57,9 @@ Some achivements I absolutely need to share:
    * and of course puzzles and riddles of any kind!
 -->
 
+<!--
 Any opportunity to **lower my Bacon number to 3** is more than welcome. Note that I'm an awful actor so you better arm yourself with patience and low expectetions.
+-->
 
 <!--
 At some point in time I sarted writing some [notes on various computer programming topics][blog] but saddly I don't have enough time to write quality content about this. I'll get back to it next time I have the opportunity to teach :). 
@@ -47,11 +67,11 @@ At some point in time I sarted writing some [notes on various computer programmi
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cglacet)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<!--
 <center>
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cglacet&layout=compact)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
-
 </center>
+-->
 
 <!--
 <a href="https://api.countapi.xyz/get/cglacet/visitors">
