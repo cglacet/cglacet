@@ -12,6 +12,7 @@ Want to hire me or my team? Send a message at <a href="mailto:contact@kune.tech"
 - Building high quality APIs
 - Interfacing with existing APIs (including ChatGPT API)
 - Going from an idea to production
+- Machine learning
 - Fast prototyping
 - Dealing with large datasets and cleaning up data
 - Algorithm (mainly distributed computing)
