@@ -1,11 +1,16 @@
 # Christian Glacet
 
-Want to hire me or my team? Send a message at <a href="mailto:contact@kune.tech">contact@kune.tech</a>. 
+Want to hire me or my team? Send a message at <a href="mailto:contact@kune.tech">contact@kune.tech</a>.
 
 ## Topics
 
 - Travel industry
 - E-commerce
+
+## Projects
+
+- Tavel app: [Kune Travel](https://kune.travel)
+- Web agency: [Kune Tech](https://kune.tech)
 
 ## Skills
 
